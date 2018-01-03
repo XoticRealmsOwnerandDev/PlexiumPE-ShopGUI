@@ -114,7 +114,8 @@ public $Blocks = [
 	"Packed Ice " => [174,0,500,250],
     "Water" => [9,0,500,250],
     "Redstone" => [331,0,50,25],
-    "Chest" => [54,0,100,50]
+    "Chest" => [54,0,100,50],
+    "TnT" => [46,0,15,10]
   ];
 
   public function onEnable(){
